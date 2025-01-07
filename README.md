@@ -1,2 +1,0 @@
-# Aqui aprendemos sobre Dados
-
